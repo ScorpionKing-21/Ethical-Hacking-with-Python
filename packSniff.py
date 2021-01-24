@@ -10,4 +10,4 @@ def sniff(interface):
 def sniffed_packets(packet):
 	print(packet.show())
 
-sniff("Intel(R) Wireless-AC 9560 160MHz")
+sniff("Name of your network interface")
